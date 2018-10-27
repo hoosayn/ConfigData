@@ -1,2 +1,7 @@
 ---
 lucky-word: Serendipity
+
+jwt:
+  token:
+    expiration:
+      time: 600000
